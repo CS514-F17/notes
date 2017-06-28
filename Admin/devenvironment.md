@@ -77,5 +77,4 @@ The `.travis.yml` file in each of your assignment repositories contains the conf
 ## Submission
 Commit your changes to Github *early and often*. You should *not* use Github as only a submission tool. Every time you get a new method or feature working *commit your changes to Github*! 
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IcDYKCGhgvw" frameborder="0" allowfullscreen></iframe>
+[![command line](http://img.youtube.com/vi/IcDYKCGhgvw&t=1025s/0.jpg)](http://www.youtube.com/watch?v=IcDYKCGhgvw&t=1025s)
