@@ -5,8 +5,8 @@ In this course we will use the following technologies for developing, testing, b
 
 - [Eclipse](#eclipse)
 - [Github](#github)
-- [Maven](#maven/travis)
-- [Travis](#maven/travis)
+- [Maven](#maven)
+- [Travis](#travis)
 
 ## Eclipse
 Eclipse is an Integrated Development Environment (IDE) that provides a friendly interface for building large Java programs. If you wish you may use a different IDE, for example IntelliJ or NetBeans, or a text editor like Sublime Text along with the command line. The instructor and TAs will only provide support for Eclipse, however.
@@ -59,28 +59,21 @@ It is *strongly* advised that you spend some time reading/watching git resources
 The instructor may add new projects to your repositories as new work is assigned. In the Github tool, simply `Sync` to pull down the latest updates from github. Then, follow the steps listed in the [Loading Projects into Eclipse](#loading-projects-into-eclipse) section to load the projects into Eclipse and begin work.
 -->
 
-## Maven/Travis
+## Maven
 
+[Maven](https://maven.apache.org/) is a project management tool we will use for this class. It provides a useful way to describe how to build software and manage its dependencies. You will notice that your projects will contain a file `pom.xml`. This file specifies how to compile the project and any other packages on which the project depends. *Do not modify this file!* In most cases, the instructor will provide this file for you, and this file will be used by the system that builds and tests your program when it is committed to github. 
 
+## Travis
+
+[Travis CI](https://travis-ci.com/) is a continuous integration tool. For every assignment, once your repository is created the instructor will configure Travis CI to automatically build and run the project test cases every time you commit your code to github. After your repository has been enabled, you may check the status of your latest commit by using your github credentials to log in to [https://travis-ci.com/profile/](https://travis-ci.com/profile/).
+
+If the test cases aren't passing, you know you have more work to do! 
+
+:warning: You should not rely on Travis CI to test your code for you. You should create your own local test cases and also run the provided test cases on your local machine before committing.
+
+The `.travis.yml` file in each of your assignment repositories contains the configuration information necessary to trigger the automated build and test of your program when committed to github. *Do not modify this file!*
 
 
 ## Submission
-Commit your changes to Github *early and often*. You should *not* use Github as only a submission tool. Everytime you get a new method or feature working *commit your changes to Github*! 
-
-### Using the Github Tool
-1. On the `Changes` screen, select all of the files you wish to commit. This should *not* include classfiles or metadata, but should include any new Java files you have implemented, and any Java or other files you have changed. 
-2. In the `Summary` enter a short, meaningful description of the change. Do *not* enter messages such as "commit 1", "commit 2". *DO* enter messages such as "Completed YelpStore addReview". In the `Description` box provide a more detailed description of the change you have made in this version of the code. 
-3. Click `Commit to master`. 
-4. Click `Sync` at the top right corner.
-5. Congratulations! Your changes should be available on Github.
-
-###Hints
-1. Make sure *all* of the files you have changed or added are included. 
-2. Verify that all changes have been committed as expected by using the Github website.
-
-
-###To Submit
-1. Make sure you are passing all tests as described in the assignment description, if unit tests are provided.
-2. Follow the instructions for [creating a new release](https://help.github.com/articles/creating-releases/) for your project. 
-3. The instructor will receive an automated email noting your submission. After your submission is verified, you will receive an email inviting you to sign up for code review.
+Commit your changes to Github *early and often*. You should *not* use Github as only a submission tool. Every time you get a new method or feature working *commit your changes to Github*! 
 
