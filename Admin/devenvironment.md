@@ -75,6 +75,13 @@ The `.travis.yml` file in each of your assignment repositories contains the conf
 
 
 ## Submission
-Commit your changes to Github *early and often*. You should *not* use Github as only a submission tool. Every time you get a new method or feature working *commit your changes to Github*! 
 
-[![command line](http://img.youtube.com/vi/IcDYKCGhgvw&t=1025s/0.jpg)](http://www.youtube.com/watch?v=IcDYKCGhgvw&t=1025s)
+This video tutorial demonstrates how to use Eclipse and the Egit plugin to complete an assignment.
+
+[![egit](https://i.ytimg.com/vi/rHfp-wA_0k0/0.jpg)](http://www.youtube.com/watch?v=rHfp-wA_0k0&t=1025s)
+
+This video tutorial demonstrates how to use the git command line tools and Eclipse to complete an assignment.
+
+[![command line](https://i.ytimg.com/vi/IcDYKCGhgvw/0.jpg)](http://www.youtube.com/watch?v=IcDYKCGhgvw&t=1025s)
+
+Commit your changes to Github *early and often*. You should *not* use Github as only a submission tool. Every time you get a new method or feature working *commit your changes to Github*! 
