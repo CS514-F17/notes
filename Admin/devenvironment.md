@@ -47,6 +47,17 @@ For most assignments, you will follow the following procedure:
 
 It is *strongly* advised that you spend some time reading/watching git resources online. A good place to start is this set of [git videos](https://git-scm.com/videos).
 
+This video tutorial demonstrates how to use Eclipse and the Egit plugin to complete an assignment.
+
+[![egit](https://i.ytimg.com/vi/rHfp-wA_0k0/0.jpg)](http://www.youtube.com/watch?v=rHfp-wA_0k0&t=1025s)
+
+This video tutorial demonstrates how to use the git command line tools and Eclipse to complete an assignment.
+
+[![command line](https://i.ytimg.com/vi/IcDYKCGhgvw/0.jpg)](http://www.youtube.com/watch?v=IcDYKCGhgvw&t=1025s)
+
+Commit your changes to Github *early and often*. You should *not* use Github as only a submission tool. Every time you get a new method or feature working *commit your changes to Github*! 
+
+
 <!--## Loading Projects into Eclipse
 1. Open Eclipse specifying the directory created by the Github tool (e.g., `/Users/srollins/cs601/srollins-labs`). Make sure to select the `<username>/labs` repository.
 2. Right-click under the `Package Explorer` and select `New > Java Project`.
@@ -73,15 +84,3 @@ If the test cases aren't passing, you know you have more work to do!
 
 The `.travis.yml` file in each of your assignment repositories contains the configuration information necessary to trigger the automated build and test of your program when committed to github. *Do not modify this file!*
 
-
-## Submission
-
-This video tutorial demonstrates how to use Eclipse and the Egit plugin to complete an assignment.
-
-[![egit](https://i.ytimg.com/vi/rHfp-wA_0k0/0.jpg)](http://www.youtube.com/watch?v=rHfp-wA_0k0&t=1025s)
-
-This video tutorial demonstrates how to use the git command line tools and Eclipse to complete an assignment.
-
-[![command line](https://i.ytimg.com/vi/IcDYKCGhgvw/0.jpg)](http://www.youtube.com/watch?v=IcDYKCGhgvw&t=1025s)
-
-Commit your changes to Github *early and often*. You should *not* use Github as only a submission tool. Every time you get a new method or feature working *commit your changes to Github*! 
