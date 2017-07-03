@@ -10,7 +10,7 @@ In this course we will use the following technologies for developing, testing, b
 
 Most students have their own laptop computer and find it helpful to bring it to class. If you do not have a laptap then you may use the laboratory computers on campus.
 
-Most professors, and a majority of students, use Macs. Macs, Windows, and Linux computers are all fine. If you thiking of a new computer and have the budget, a Mac is recommended. If not, any relatively modern laptop will serve you fine for this course. Much of the software is easier to work with on unix-based machines, however.
+Most professors, and a majority of students, use Macs. Macs, Windows, and Linux computers are all fine. If you are thinking of a new computer and have the budget, a Mac is recommended. If not, any relatively modern laptop will serve you fine for this course. Much of the software is easier to work with on unix-based machines, however.
 
 ## Eclipse
 Eclipse is an Integrated Development Environment (IDE) that provides a friendly interface for building large Java programs. If you wish you may use a different IDE, for example IntelliJ or NetBeans, or a text editor like Sublime Text along with the command line. The instructor and TAs will only provide support for Eclipse, however.
