@@ -8,7 +8,7 @@ Project Submission Procedure
 3. **In-person code review:** Student meets with instructor for 15-minute code review session. Instructor outlines all design changes required before next submission.
 4. **Revision:** Student applies all required design changes.
 5. **Resubmmision:** Student commits revised code to github and [creates a new release](https://help.github.com/articles/creating-releases/).
-6. **Repeat:** *At most once per week* steps 1-5 will be repeated until the final deadline. In some cases a student may be exempted from step 3 for a second or subsequent resubmission.
+6. **Repeat:** *At most once per week* steps 2-5 will be repeated until the final deadline. In some cases a student may be exempted from step 3 for a second or subsequent resubmission.
 
 ## Overview
 
