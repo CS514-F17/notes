@@ -33,13 +33,13 @@ The following deductions may be applied to any solution. Note, this means that t
 
 ## Functionality Deadline
 
-Each lab will come with several unit tests. *Do not modify these tests!* By the functionality deadline, the solution committed to github must pass all unit tests provide to be eligible for the **Design** portion of the grade. 
+Each lab will come with several unit tests. *Do not modify these tests!* By the functionality deadline, the solution committed to github must pass all unit tests provided to be eligible for the **Design** portion of the grade. 
 
 The functionality deadline is a hard deadline. Code that does not pass all test cases by the functionality deadline will not be reviewed.
 
 ## Code Review
 
-If your solution meets the functionality requirements it will be carefully reviewed by an instructor or TA. During the code review, the reviewer will look for poor design elements and will note all design elements that must be improved for the next revision. Examples of poor design elements include long and confusing methods that should be decomposed into multiple smaller methods as well as inefficient algorithms that result in slow execution.
+If your solution meets the functionality requirements it will be carefully reviewed by an instructor or TA. During the code review, the reviewer will look for poor design elements and will note all design elements that must be improved for the next revision. Examples of poor design elements include long and confusing methods that should be decomposed into multiple smaller methods, and inefficient algorithms that result in slow execution.
 
 Required revisions will be noted either as inline comments or as [open issues](https://help.github.com/articles/about-issues/). 
 
