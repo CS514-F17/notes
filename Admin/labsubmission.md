@@ -65,4 +65,4 @@ As noted above, deductions **will** be taken if a resubmitted solution does not 
 
 ### Final Deadline
 
-After the final deadline, the instructor or TA will grade your final solution and your final grade will be recorded! Congratulations, time to move on to the next assignment!
+After the final deadline, the instructor or TA will grade your final solution and your final grade will be recorded. Congratulations, time to move on to the next assignment!
