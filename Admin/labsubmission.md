@@ -23,7 +23,7 @@ The goal of the code review process is to allow you to improve your code design 
 
 The following deductions may be applied to any solution. Note, this means that the final grade may be lower than the 85% originally awarded for functionality! Make absolutely certain that you have carefully reviewed a revision before submitting it for the next code review.
 
-**Broken test cases** - If a resubmitted solution does not pass all test cases a 5-point deduction will be applied. 
+**Failing test cases** - If a resubmitted solution does not pass all test cases a 5-point deduction will be applied. 
 
 **Failure to address all open issues** - If a resubmitted solution fails to address any in-line comments or open issues a 5-point deduction will be applied. 
 
