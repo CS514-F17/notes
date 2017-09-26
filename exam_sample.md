@@ -170,3 +170,39 @@ The following code results in a compiler error. Explain why.
 
 ```javapublic class Exam1 {	public static void main(String[] args) {		x = 10;		System.out.println("x: " + x);	}}
 ```
+
+---
+
+Which of the following assignments are valid? Select all that apply.
+
+- `Comparable c = new Integer(5);`
+- `Comparable c = new Comparable(“cat”);`
+- `String s = new Comparable(“hello”);`
+- All of the above
+
+---
+
+Which of the following classes have a parent/child (or “is-a”) inheritance relationship? Select all that apply.
+
+- `Game` and `Player`
+- `Car` and `Mazda`
+- `Chicken` and `Wing`
+- `Car` and `Driver`
+- `MusicPlayer` and `MP3Player`
+
+---
+
+How much memory is allocated for the array when the following line of code executes?
+
+`int[] numbers = new int[10];`
+
+---
+
+A palindrome is a word that is the same forward and backward, like "bob" and "racecar".
+
+Implement a method `isPalindrome` that takes as input a word and returns `true` if it is a palindrome and `false` otherwise.
+
+--- 
+
+Implement a method `firstChars`. The method takes as input a `String` and returns a new `String` containing the first character of each word in the original `String`. Given the input `String` “Good luck on the exam!” the method would return the String “Glote”. You may assume that words in the original String are separated by whitespace. 
+
