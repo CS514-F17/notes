@@ -1,5 +1,28 @@
-Sample Exam Questions
-=====================
+Exam Review
+===========
+
+### Topics
+- Variables
+- Strong typing
+- Expressions
+- Conditionals
+- Casting
+- Iteration
+- Strings
+- String operations
+- Classes
+- `this` keyword
+- Methods
+- Object composition
+- `ArrayList`
+- arrays
+- References vs primitive types
+- Object instantiation
+- Inheritance
+- Polymorphism
+- JSON
+
+### Questions
 
 Which of the following two programs will result in an error?
 
