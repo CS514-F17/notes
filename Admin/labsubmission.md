@@ -6,7 +6,7 @@ Lab Submission Procedure
 1. **Functionality deadline:** Code passing all unit tests is committed to github.
 2. **Code review:** *If and only if* code is passing all tests, the professor or TA reviews code and outlines required design changes. At the request of instructor or student, an in-person code review may be scheduled.
 3. **Revision:** Student applies all required design changes.
-4. **Resubmmision:** Student commits revised code to github and [creates a new release](https://help.github.com/articles/creating-releases/).
+4. **Resubmission:** Student commits revised code to github and [creates a new release](https://help.github.com/articles/creating-releases/).
 5. **Repeat:** *At most once per week* steps 2-5 will be repeated until the final deadline. 
 
 ## Overview
